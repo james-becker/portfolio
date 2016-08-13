@@ -1,0 +1,37 @@
+body {
+	font-family: Tinos;
+	font-size: 18px;
+}
+
+.emText1 {
+	font-size: 1.5em;
+	font-weight: 400px;
+	vertical-align: middle;
+}
+
+.emText2 {
+	font-size: 2em;
+	font-weight: 400px;
+	vertical-align: middle;
+}
+
+.superText {
+	font-size: 5em;
+	font-weight: 400px;
+	vertical-align: middle;
+}
+
+.jtron {
+	width: 120%;
+	background-color: rgba(225,225,225,0.5);
+	margin: 10px 0px 10px 0px;
+	padding: 5px 200px 5px 200px;
+	text-align: left;
+}
+
+.content {
+	width: 800px;
+	left: 50%;
+	margin-left: -50px;
+	vertical-align: middle;
+}
